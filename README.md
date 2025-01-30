@@ -1,6 +1,6 @@
 # **Hej!** 👋
 - Mitt namn är Malin Rosenquist.
-- Jag är bosatt i Skåne och studerar på distans till Front End Developer
+- Jag är bosatt i Skåne och studerar på distans till Front End Developer hos Medieinstitutet
 - Jag ser fram emot att lära mig så mycket som möjligt för att kunna skapa användarvänliga och funktionella hemsidor
 
 <!---
